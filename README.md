@@ -1,4 +1,4 @@
 # Til - I learned today.
 
-by Yokoyama-Go
+by Yokoyama-Go.
 Lience is MIT.
