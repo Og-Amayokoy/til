@@ -1,4 +1,4 @@
-# Til - I learned today.
+# Til - Yoday I learned.
 
 by Yokoyama-Go.
 Lience is MIT.
