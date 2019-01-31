@@ -1,4 +1,4 @@
 # Til - Today I learned.
 
 by Yokoyama-Go.
-Lience is MIT.
+I write this like a daily.
